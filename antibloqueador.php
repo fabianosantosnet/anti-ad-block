@@ -1,5 +1,5 @@
-<div id="antibloqueador">
-    <!-- INICIO ANTIBLOQUEADOR -->
+<!-- INICIO ANTIBLOQUEADOR -->
+<div id="antibloqueador">    
     <style type="text/css">
         #c429 {
             position: fixed !important;
